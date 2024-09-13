@@ -17,6 +17,10 @@ A responsive to-do list application developed using **HTML**, **CSS**, and **Jav
 - **JavaScript**: Adds interactivity to the application.
 - **Local Storage**: Ensures that tasks are saved between browser sessions.
 
+## Live Demo
+
+Check out the live version of the To-Do List app: [To-Do List App](https://yashpatil-25.github.io/ToDoList/)
+
 ### Prerequisites
 
 - Web browser (e.g., Google Chrome)
