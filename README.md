@@ -21,10 +21,10 @@ A responsive to-do list application developed using **HTML**, **CSS**, and **Jav
 
 Check out the live version of the To-Do List app: [To-Do List App](https://yashpatil-25.github.io/ToDoList/)
 
-### Prerequisites
+## Prerequisites
 
 - Web browser (e.g., Google Chrome)
 - Basic understanding of HTML, CSS, and JavaScript
 
-### Sequence Diagram
+## Sequence Diagram
 ![To-Do-Sequence-Diagram](https://github.com/user-attachments/assets/e2089341-53ac-4031-ac31-198b3ca40faa)
